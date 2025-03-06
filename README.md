@@ -9,7 +9,7 @@ A Python script to check the creation dates of Reddit accounts using the Reddit 
 # Requirements
 - **Python**: 3.12 or higher (for `datetime.UTC`). For older versions, see [Notes for older Python versions](#notes-for-older-python-versions).
 - **PRAW**: Python Reddit API Wrapper (`pip install praw`).
-- A Reddit account and API credentials (see [Setup](#setup)).
+- A Reddit account and API credentials.
 
 # Setup
 1. **Install Python**: Ensure Python 3.12+ is installed. Check with `python --version`.
